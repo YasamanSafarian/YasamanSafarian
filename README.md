@@ -21,15 +21,15 @@ I build responsive and user-focused web applications with a focus on clean, main
 
 Frontend
 
-Angular • TypeScript • JavaScript • HTML • CSS • Tailwind CSS • Next.js
+Angular • TypeScript • JavaScript • HTML • CSS • Tailwind CSS 
 
 Backend
 
-Node.js • Go • REST APIs
+Node.js • REST APIs
 
 Database
 
-MySQL
+MySQL • Posgres
 
 Design & Tools
 
@@ -68,4 +68,4 @@ JavaScript • Frontend Development
 📫 Connect With Me
 
 LinkedIn: "Yasaman Safarian" (https://www.linkedin.com/)
-GitHub: "sopsit" (https://github.com/sopsit)
+GitHub: "YasamanSafarian" (https://github.com/YasamanSafarian)
