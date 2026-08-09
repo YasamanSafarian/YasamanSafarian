@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220" viewBox="0 0 700 220">
+<rect width="700" height="220" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="35" y="45" fill="#f0f6fc" font-family="Arial" font-size="24" font-weight="700">Yasaman's GitHub Stats</text>
+<text x="35" y="90" fill="#8b949e" font-family="Arial" font-size="16">Add your live stats service URL here when ready.</text>
+<text x="35" y="125" fill="#58a6ff" font-family="monospace" font-size="15">Commits   •   Pull Requests   •   Issues   •   Stars</text>
+<text x="35" y="165" fill="#8b949e" font-family="Arial" font-size="14">This local SVG is a safe placeholder.</text>
+</svg>
