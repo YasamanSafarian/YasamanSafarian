@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90">
+  <path d="M0 45 Q125 5 250 45 T500 45 T750 45 T1000 45"
+        fill="none" stroke="#58a6ff" stroke-width="2" opacity=".8">
+    <animate attributeName="d"
+      values="M0 45 Q125 5 250 45 T500 45 T750 45 T1000 45;
+              M0 45 Q125 85 250 45 T500 45 T750 45 T1000 45;
+              M0 45 Q125 5 250 45 T500 45 T750 45 T1000 45"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="500" cy="45" r="5" fill="#58a6ff">
+    <animate attributeName="r" values="4;9;4" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
