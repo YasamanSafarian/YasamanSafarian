@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yasaman Safarian
+# Yasaman Safarian
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 💻 **Front-End Developer** focused on building modern web applications  
 ⚡ Experienced with **Angular, TypeScript and JavaScript**  
@@ -84,7 +84,7 @@
 
 ## 🌱 Currently Learning
 
-`Angular` · `Advanced TypeScript` · `RxJS` · `NestJS` · `Backend Development`
+`Angular` · `Advanced TypeScript` · `RxJS` · `NestJS` · 
 
 ---
 
