@@ -32,37 +32,37 @@
 ### Frontend
 
 <p>
-  <img src="./assets/icons/angular.svg" width="45" alt="Angular">
-  <img src="./assets/icons/typescript.svg" width="45" alt="TypeScript">
-  <img src="./assets/icons/javascript.svg" width="45" alt="JavaScript">
-  <img src="./assets/icons/html.svg" width="45" alt="HTML">
-  <img src="./assets/icons/css.svg" width="45" alt="CSS">
-  <img src="./assets/icons/tailwind.svg" width="45" alt="Tailwind CSS">
-  <img src="./assets/icons/nextjs.svg" width="45" alt="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" alt="Angular">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js">
 </p>
 
 ### Backend
 
 <p>
-  <img src="./assets/icons/nodejs.svg" width="45" alt="Node.js">
-  <img src="./assets/icons/go.svg" width="45" alt="Go">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45" alt="Go">
 </p>
 
 ### Database
 
 <p>
-  <img src="./assets/icons/mysql.svg" width="45" alt="MySQL">
-  <img src="./assets/icons/postgresql.svg" width="45" alt="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL">
 </p>
 
 ### Tools & Design
 
 <p>
-  <img src="./assets/icons/figma.svg" width="45" alt="Figma">
-  <img src="./assets/icons/git.svg" width="45" alt="Git">
-  <img src="./assets/icons/github.svg" width="45" alt="GitHub">
-  <img src="./assets/icons/vscode.svg" width="45" alt="VS Code">
-  <img src="./assets/icons/linux.svg" width="45" alt="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" alt="Figma">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux">
 </p>
 
 ---
