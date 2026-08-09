@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="./assets/github-stats.svg" alt="GitHub stats">
@@ -74,7 +74,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution snake">
@@ -82,7 +82,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 `Angular` · `Advanced TypeScript` · `RxJS` · `NestJS` · 
 
@@ -90,12 +90,12 @@
 
 ## 🎯 What I Care About
 
-- ✨ Clean and maintainable code
-- 📱 Responsive UI
-- 🎨 Pixel-perfect UI implementation
-- ⚡ Performance
-- 🧩 Reusable components
-- 📚 Continuous learning
+-  Clean and maintainable code
+-  Responsive UI
+-  Pixel-perfect UI implementation
+-  Performance
+-  Reusable components
+-  Continuous learning
 
 ---
 
