@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="https://www.linkedin.com/in/yasamansafarian">LinkedIn</a>
 &nbsp;•&nbsp;
 <a href="https://github.com/YasamanSafarian">GitHub</a>
 
