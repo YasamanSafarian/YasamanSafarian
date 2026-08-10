@@ -15,14 +15,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-💻 **Front-End Developer** focused on building modern web applications  
-⚡ Experienced with **Angular, TypeScript and JavaScript**  
-🎨 Interested in **Figma & UI implementation**  
-🌐 Passionate about **responsive web interfaces**  
-🎓 **Computer Engineering Student at Bu-Ali Sina University**  
-🌱 Continuously improving my frontend development skills
+ **Front-End Developer** focused on building modern web applications  
+ Experienced with **Angular, TypeScript and JavaScript**  
+ Interested in **Figma & UI implementation**  
+ Passionate about **responsive web interfaces**  
+ **Computer Engineering Student at Bu-Ali Sina University**  
+ Continuously improving my frontend development skills
 
 ---
 
@@ -55,12 +55,11 @@
 | 🐦 **Twitterak** | Mini social-media application inspired by Twitter. | JavaScript |
 
 ---
-
 ##  GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasamanSafarian&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasamanSafarian&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=YasamanSafarian&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasamanSafarian&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ---
@@ -68,7 +67,11 @@
 ##  Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YasamanSafarian/YasamanSafarian/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasamanSafarian/YasamanSafarian/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasamanSafarian/YasamanSafarian/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/YasamanSafarian/YasamanSafarian/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 > **Note:** To make the snake work you need the GitHub Action (see below).
