@@ -1,36 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="70" viewBox="0 0 760 70" role="img" aria-label="Frontend Developer, Angular, TypeScript and JavaScript">
-  <style>
-    text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-      font-size: 30px;
-      font-weight: 600;
-      fill: #61dafb;
-    }
-
-    .line {
-      opacity: 0;
-      animation: show 12s infinite;
-    }
-
-    .line1 { animation-delay: 0s; }
-    .line2 { animation-delay: 3s; }
-    .line3 { animation-delay: 6s; }
-    .line4 { animation-delay: 9s; }
-
-    @keyframes show {
-      0%, 4% { opacity: 0; }
-      6%, 18% { opacity: 1; }
-      20%, 100% { opacity: 0; }
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      .line { animation: none; opacity: 0; }
-      .line1 { opacity: 1; }
-    }
-  </style>
-
-  <text x="50%" y="45" text-anchor="middle" class="line line1">Frontend Developer</text>
-  <text x="50%" y="45" text-anchor="middle" class="line line2">Angular Developer</text>
-  <text x="50%" y="45" text-anchor="middle" class="line line3">TypeScript Developer</text>
-  <text x="50%" y="45" text-anchor="middle" class="line line4">JavaScript Developer</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="100" viewBox="0 0 700 100">
+  <rect width="700" height="100" rx="18" fill="#0d1117"/>
+  <text x="350" y="58" text-anchor="middle" fill="#58a6ff"
+        font-family="monospace" font-size="25">
+    <tspan>Front-End Developer</tspan>
+    <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="58" text-anchor="middle" fill="#58a6ff"
+        font-family="monospace" font-size="25" opacity="0">
+    <tspan>Angular • TypeScript • JavaScript</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="58" text-anchor="middle" fill="#58a6ff"
+        font-family="monospace" font-size="25" opacity="0">
+    <tspan>Building responsive web experiences</tspan>
+    <animate attributeName="opacity" values="0;0;0;1;0" dur="8s" repeatCount="indefinite"/>
+  </text>
 </svg>
