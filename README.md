@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yasaman Safarian
+#  Hi, I'm Yasaman Safarian
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Frontend
 <p align="center">
@@ -45,7 +45,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasamanSafarian&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YasamanSafarian/YasamanSafarian/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 `Angular` · `Advanced TypeScript` · `RxJS` · `NestJS` · 
 
@@ -83,12 +83,12 @@
 
 ## 🎯 What I Care About
 
-- ✨ Clean and maintainable code
-- 📱 Responsive UI
-- 🎨 Pixel-perfect UI implementation
-- ⚡ Performance
-- 🧩 Reusable components
-- 📚 Continuous learning
+-  Clean and maintainable code
+-  Responsive UI
+-  Pixel-perfect UI implementation
+-  Performance
+-  Reusable components
+-  Continuous learning
 
 ---
 
